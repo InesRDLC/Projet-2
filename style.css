@@ -1,26 +1,26 @@
 /* style.css */
 body{
   background: rgb(245,245,245);
-  color: green;
-  font-size: 25px;
-  font-family: Helvetica;
+  color: rgb(70,71,116);
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 h1{
-  font-family: Courier;
-  color: red;
+
+  color: black;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 12px;
 }
 h2 {
-  font-family: Courier;
-  color: pink;
+
+  color: blue;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 14px;
 }
 a {
-  color: yellow;
+  color: purple;
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: black;
 }
